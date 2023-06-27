@@ -1,0 +1,243 @@
+/*
+p{
+    font-size: 50px;
+}
+*/
+.text134{
+    color:red;
+}
+a{
+    color:#000000;
+}
+a:hover{
+    color:red;
+}
+.mydiv{
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    padding: 10px;
+
+    
+    width: 400px;
+    height: 500px;
+    
+}
+*{
+    background-color: rgb(228, 228, 228);
+}
+
+.mydiv4{
+    width: 182px;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+
+    
+}
+p{
+    background-color: white;
+}
+.mydiv6{
+    width: 192px;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px;
+}
+.mydiv5{
+    width: 390px;
+    height: 20px;
+    background-color: white;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+.mydiv7{
+    width: 390px;
+    height: 20px;
+    border: solid 1px;
+    border-color: rgb(185, 183, 183);
+    background-color:white;
+    border-radius: 5px;
+    padding-left: 10px;
+}
+h6{
+    background-color: white;
+    padding: 0%;
+}
+*{
+    background-color: rgb(240, 242, 245);
+}
+.mydiv1{
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 5px rgb(141, 137, 137);font-size: 25px;
+    padding:20px;
+    width: 400px;
+    height: 300px;
+}
+a{
+    text-decoration: none;
+    font-size: 20px;
+    color: rgb(81, 81, 238);
+}
+input{
+    width: 350px;
+    height: 30px;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: rgb(185, 183, 183);
+    
+    
+}
+.mydiv11{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: rgb(185, 183, 183);
+    background-color: white;
+    font-size: 20px;
+    padding-left: 10px;
+    
+    
+}
+.mydiv3{
+    width: 350px;
+    height: 50px;
+    border-radius: 10px;
+    background-color: blue;
+    color: white;
+    font-size: 25px;
+
+}
+.mydiv9{
+    width: 200px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: green;
+    color: white;
+
+}
+.mydiv2{
+    background-color: white;
+    color: blue;
+    box-shadow: 5px rgb(10, 9, 9);
+    height: 100px;
+    font-size: 35px; 
+    
+}
+
+.mydiv10{
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 5px rgb(141, 137, 137);font-size: 27px;
+    padding:20px;
+    width: 450px;
+    height: 250px;
+}
+@keyframes bgchange{
+    from {background-color:green;}
+    to {background-color:purple;}
+
+} 
+@keyframes fontchange{
+    from {font-size: 40px;}
+    to {font-size: 50px;}
+    
+}
+/* horizontal menu using unordered list*/
+.horizontalmenu li{
+    display: inline;
+    padding: 20px;
+}
+.mydiv12{
+    font-size: 20px;
+}
+.mydiv13{
+    background-color:white;
+    color:black;
+    border-radius: 10px;
+    box-shadow: 5px rgb(141, 137, 137);font-size: 17px;
+    height: 40px;
+    padding-left: 10px;
+}
+.mydiv14{
+    width: 95px;
+    border: rgb(207, 204, 204);
+    
+}
+.mydiv15{
+    width: 95px;
+    background-color: blue;
+    color: white;
+}
+.mydiv16{
+    width: 95px;
+    background-color: blue;
+    color: white;
+    
+
+}
+.mydiv17{
+    width: 150px;
+    height: 20px;
+    background-color: blue;
+    padding-left: 1300px;
+    background-color: white;
+    
+
+
+}
+.mydiv20{
+    background-color: white;
+}
+.mydiv18{
+    color: black;
+    background-color: blue;
+    
+}
+.buttons{
+    padding-left: 250px;
+    background-color: white;
+}
+li{
+    text-decoration: none;
+    display: inline;
+    background-color: white;
+}
+ul{
+    background-color: white;
+}
+.facebook{
+    font-size: 35px;
+    color: blue;
+}
+.login{
+    width: 150px;
+    height: 20px;
+    background-color: white;
+}
+.mail{
+    width: 175px;
+    height: 35px;
+    border-radius: 10px;
+    border: solid 1px;
+    border-color: rgb(185, 183, 183);
+    background-color: white;
+    font-size: 20px;
+    padding-left: 10px;
+    font-size: 10;
+}
+.button{
+    width: 200px;
+    height: 60px;
+    border-radius: 10px;
+    background-color: rgb(22, 120, 177);
+    color: white;
+    font-size: 20px;
+    
+
+}
